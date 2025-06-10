@@ -1,7 +1,15 @@
-# Electra-Link (E-Voting System)
+# E-Voting System
 
+# Final Project Web Development Course
 
-The **Electra-Link (E-Voting System)** is a secure and efficient online voting platform designed to manage voter IDs and candidates seamlessly. Built with **Laravel** and **Bootstrap**, this system provides an intuitive admin interface for managing voters, candidates, and election processes.
+# **Tim 6**
+- Elwas R Saebani
+- Nopri Anita
+- Lolyta Madesa
+- Elliza
+- Rendi Setiawan
+
+The **E-Voting System** is a secure and efficient online voting platform designed to manage voter IDs and candidates seamlessly. Built with **Laravel** and **Bootstrap**, this system provides an intuitive admin interface for managing voters, candidates, and election processes.
 
 ---
 
