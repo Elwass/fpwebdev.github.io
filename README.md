@@ -52,7 +52,7 @@ The **Electra-Link (E-Voting System)** is a secure and efficient online voting p
   - Laravel's file storage system for candidate photos.
 - **Admin Credential:**
    - Email:admin@gmail.com
-   - Password:12341234 
+   - Password:admin123
 
 ---
 
@@ -80,13 +80,7 @@ Follow these steps to set up the project locally:
     -  Add, edit, or delete candidates with their details (name, party, photo, and votes).
 -   **4. View Data:**
     -   View lists of voter IDs and candidates in a clean and responsive table format.
-## **Contact**
--  **For any questions or feedback, feel free to reach out:**
-  - Name : Md. Shahin Alam.
-  - Email: mshahinalam01@gmail.com
-    
- ## **License**
-- **This project is licensed under the MIT License. See the LICENSE file for details.**
+
 
      
       
